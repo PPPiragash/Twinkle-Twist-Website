@@ -1,0 +1,174 @@
+header {
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: 1900px 600px;
+    margin: 30px;
+}
+
+ul {
+    display: flex;
+    align-content: top;
+    justify-content: left;
+    list-style-type: none;
+    margin: 50px 100px 50px 40px;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+li a {
+    text-decoration: none;
+    color: white;
+    margin: 30px 100px 50px 40px;
+}
+
+.button1 {
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    border-style: dotted;
+    border-color: powderblue;
+    border-radius: 50px;
+    background-color: rgb(95, 95, 240);
+    margin-left: -80px;
+}
+
+nav {
+    display: flex;
+}
+
+div {
+    align-content: center;
+    margin-left: 200px;
+}
+
+.h1 {
+    margin-left: 110px;
+    color: white;
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.para {
+    margin-left: 110px;
+    color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+
+.but {
+    color: white;
+    font-weight: bold;
+    border-color: brown;
+    background-color: green;
+    border-style: solid;
+    text-align: center;
+    margin-left: 110px;
+    border-radius: 150px;
+    margin-bottom: 30px;
+    width: 12%;
+    height: 40%;
+    font-size: 20px;
+}
+
+.sect {
+    margin-left: 110px;
+}
+
+.headi {
+    font-size: 50px;
+    margin: 50px 90px 60px 200px;
+}
+
+.img {
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-around;
+    box-shadow: 2px 0 10px;
+}
+
+.butt {
+    align-content: last baseline;
+}
+
+.abc {
+    text-align: center;
+    font-size: 50px;
+    margin-top: 70px;
+}
+
+.pra {
+    font-size: 20px;
+    text-align: center;
+}
+
+.for {
+    text-align: center;
+}
+
+.butte {
+    background-color: rgb(207, 21, 231);
+    border-style: solid;
+    border-color: rgb(207, 21, 231);
+    border-radius: 30px;
+    width: 10%;
+    display: inline-flex;
+    height: 100%;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 30px;
+}
+
+hr {
+    margin-top: 80px;
+}
+
+table {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 20px 60px 30px 80px;
+}
+
+.papa {
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 200px;
+    color: gray;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+td {
+    padding-left: 130px;
+    padding-bottom: 20px;
+    color: gray;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.parah {
+    font-weight: bolder;
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+h3 {
+    margin-left: 20px;
+}
+
+.text {
+    width: 500px;
+    height: 50px;
+    font-size: 20px;
+}
+.jaa{
+    margin:20px;
+}
